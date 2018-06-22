@@ -21,10 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/nextbit/ether/proprietary/vendor/bin/dpm:system/vendor/bin/dpm \
     vendor/nextbit/ether/proprietary/vendor/bin/energy-awareness:system/vendor/bin/energy-awareness \
     vendor/nextbit/ether/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
-    vendor/nextbit/ether/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
-    vendor/nextbit/ether/proprietary/vendor/bin/imscmservice:system/vendor/bin/imscmservice \
-    vendor/nextbit/ether/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
-    vendor/nextbit/ether/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
     vendor/nextbit/ether/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/nextbit/ether/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/nextbit/ether/proprietary/vendor/bin/msm_irqbalance:system/vendor/bin/msm_irqbalance \
@@ -130,6 +126,10 @@ PRODUCT_COPY_FILES += \
     vendor/nextbit/ether/proprietary/vendor/lib64/libtfa98xx.so:system/vendor/lib64/libtfa98xx.so \
     vendor/nextbit/ether/proprietary/vendor/lib64/libtfa98xx_hal.so:system/vendor/lib64/libtfa98xx_hal.so \
     vendor/nextbit/ether/proprietary/vendor/bin/cnd:system/vendor/bin/cnd \
+    vendor/nextbit/ether/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
+    vendor/nextbit/ether/proprietary/vendor/bin/imscmservice:system/vendor/bin/imscmservice \
+    vendor/nextbit/ether/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
+    vendor/nextbit/ether/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
     vendor/nextbit/ether/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/nextbit/ether/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/nextbit/ether/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
